@@ -1,55 +1,51 @@
-[![FLAMOX365 – Vom Hersteller. Zum Ofenbauer. Bis zum Kunden.](https://raw.githubusercontent.com/FLAMOX365/.github/main/assets/cover.png)](https://www.flamox365.com/)
+[![FLAMOX365 – From manufacturer. To stove installer. To customer.](https://raw.githubusercontent.com/FLAMOX365/.github/main/assets/cover.png?v=english)](https://www.flamox365.com/)
 
-# Die Plattform für die Kamin- und Ofenbranche
+# The platform for the fireplace and stove industry
 
-**FLAMOX365 verbindet Produktdaten, Verkauf und Handwerk in einem durchgängigen Ablauf.** Vom ersten Kundenkontakt über Beratung, Angebot und Auftrag bis zur Montage, Rechnung und zum Service: Ofenbaubetriebe arbeiten mit einem gemeinsamen Datenstand und behalten ihre Vorgänge im Blick.
+**FLAMOX365 connects product data, sales and skilled trades in one continuous workflow.** From the first customer enquiry through consultation, quotations and orders to installation, invoicing and service: fireplace and stove businesses work from a shared set of information and keep track of every job.
 
-Zentral gepflegte Hersteller- und Produktdaten, Zusammenarbeit im Team und ein KI Assistent unterstützen die tägliche Arbeit – im Büro, im Verkauf und unterwegs.
+Centrally maintained manufacturer and product data, team collaboration and an AI assistant support everyday work – in the office, on the sales floor and on site.
 
-[Webseite](https://www.flamox365.com/) · [Alle Funktionen](https://www.flamox365.com/funktionen/) · [Kontakt](mailto:mail@flamox365.com)
+[Website](https://www.flamox365.com/) · [Explore all features](https://www.flamox365.com/funktionen/) · [Contact](mailto:mail@flamox365.com)
 
-> **In Entwicklung:** FLAMOX365 befindet sich vor dem allgemeinen Marktstart. Die folgenden Links stellen die Plattform und ihre Funktionen auf der Hauptwebseite vor.
+## What FLAMOX365 brings together
 
-## Was FLAMOX365 zusammenbringt
+- **Customers and sales:** Manage leads, document consultations, configure products and guide quotations through to the customer's decision.
+- **Orders and delivery:** Keep orders, installation, invoices and service connected throughout the job.
+- **Products and purchasing:** Work with manufacturer and product data in the catalogue and purchase through the business shop.
+- **Team and organisation:** Connect tasks, schedules and conversations to the relevant job.
+- **AI assistance:** Find information and prepare next steps. The assistant suggests; people decide.
+- **Integrations:** Connect your own systems through the API, webhooks and Edge Connector.
 
-- **Kunden und Verkauf:** Interessenten betreuen, Beratungen dokumentieren, Produkte konfigurieren und Angebote bis zur Kundenentscheidung begleiten.
-- **Auftrag und Ausführung:** Aufträge, Montage, Rechnungen und Service im Zusammenhang bearbeiten.
-- **Produkte und Einkauf:** Hersteller- und Produktdaten im Katalog nutzen und den Einkauf über den Shop für Unternehmen abwickeln.
-- **Team und Organisation:** Aufgaben, Termine und Absprachen mit dem jeweiligen Vorgang verbinden.
-- **KI Unterstützung:** Informationen erschließen und Arbeitsschritte vorbereiten. Der Assistent schlägt vor, der Mensch entscheidet.
-- **Schnittstellen:** Eigene Systeme über API, Webhooks und den Edge Connector anbinden.
+## Explore FLAMOX365
 
-## Webseiten und Anwendungen
-
-| Einstieg | Wofür? |
+| Destination | What you will find |
 | --- | --- |
-| [Webseite](https://www.flamox365.com/) | Produktvorstellung, Zielgruppen und Kontakt |
-| [Feature-Katalog](https://www.flamox365.com/funktionen/) | Überblick über Funktionen und ihren Entwicklungsstand |
-| [Portal für Ofenbaubetriebe](https://www.flamox365.com/ofenbauer/) | Arbeitsbereich für Kunden, Verkauf, Aufträge und Team |
-| [Shop für Unternehmen](https://www.flamox365.com/shop/) | Einkauf für Unternehmen |
-| [Status](https://status.flamox365.app/) | Betriebsstatus der Dienste |
-| [API und Schnittstelle](https://www.flamox365.com/api-und-schnittstelle/) | Informationen zur Integration eigener Systeme |
+| [Website](https://www.flamox365.com/) | Product overview, who it is for and contact details |
+| [Feature catalogue](https://www.flamox365.com/funktionen/) | Explore the platform's capabilities |
+| [Portal for stove installers](https://www.flamox365.com/ofenbauer/) | Customers, sales, orders and teamwork |
+| [Business shop](https://www.flamox365.com/shop/) | Purchasing for businesses |
+| [Service status](https://status.flamox365.app/) | Operational status of the services |
+| [API and integrations](https://www.flamox365.com/api-und-schnittstelle/) | Information on connecting your own systems |
 
-## Technologie
+## Technology
 
-| Bereich | Grundlage |
+| Area | Foundation |
 | --- | --- |
-| Sprache | TypeScript |
-| Oberfläche | Angular und Mosaik |
-| Backend | NestJS und Archipel |
-| Daten | PostgreSQL und Prisma |
-| Schnittstellen | OpenAPI und Webhooks |
-| Workspace und Qualität | Nx, Vitest und Playwright |
+| Language | TypeScript |
+| User interface | Angular and Mosaik |
+| Backend | NestJS and Archipel |
+| Data | PostgreSQL and Prisma |
+| Interfaces | OpenAPI and webhooks |
+| Workspace and quality | Nx, Vitest and Playwright |
 
-Mosaik und Archipel stammen aus dem [Pixel-Brewery-Ökosystem](https://github.com/pixel-brewery). FLAMOX365 entwickelt darauf die Fachprozesse für die Kamin- und Ofenbranche.
+Mosaik and Archipel are part of the [Pixel Brewery ecosystem](https://github.com/pixel-brewery). FLAMOX365 builds on these foundations to support the workflows of the fireplace and stove industry.
 
-## Offene Bausteine
+## Public building blocks
 
-Die Fachanwendung wird in einem privaten Repository entwickelt. Öffentlich verfügbar sind:
-
-- [Edge Connector](https://github.com/FLAMOX365/flamox-edge-connector) – lokale Laufzeit und Entwicklungswerkzeuge für die sichere Anbindung betrieblicher Systeme.
-- [Edge Connector Extensions](https://github.com/FLAMOX365/flamox-edge-connector-extensions) – Erweiterungskatalog für den Edge Connector.
+- [Edge Connector](https://github.com/FLAMOX365/flamox-edge-connector) – a local runtime and development tools for securely connecting business systems.
+- [Edge Connector Extensions](https://github.com/FLAMOX365/flamox-edge-connector-extensions) – the extension catalogue for Edge Connector.
 
 ---
 
-**Aus dem Ofenbau. Für den Ofenbau.** Mehr erfahren auf [flamox365.com](https://www.flamox365.com/).
+**From the trade. For the trade.** Learn more at [flamox365.com](https://www.flamox365.com/).
