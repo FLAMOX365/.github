@@ -33,7 +33,7 @@ Centrally maintained manufacturer and product data, team collaboration and an AI
 | Area | Foundation |
 | --- | --- |
 | Language | TypeScript |
-| User interface | Angular and Mosaik |
+| Frontend | Angular and Mosaik |
 | Backend | NestJS and Archipel |
 | Data | PostgreSQL and Prisma |
 | Interfaces | OpenAPI and webhooks |
