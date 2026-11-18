@@ -1,4 +1,4 @@
-[![FLAMOX365 – From manufacturer. To stove installer. To customer.](https://raw.githubusercontent.com/FLAMOX365/.github/main/assets/cover.png?v=english)](https://www.flamox365.com/)
+[![FLAMOX365 – From manufacturer. To stove installer. To customer.](https://raw.githubusercontent.com/FLAMOX365/.github/main/assets/cover-en.png)](https://www.flamox365.com/)
 
 # The platform for the fireplace and stove industry
 
