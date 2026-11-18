@@ -8,7 +8,7 @@ Zentral gepflegte Hersteller- und Produktdaten, Zusammenarbeit im Team und ein K
 
 [Webseite](https://www.flamox365.com/) · [Alle Funktionen](https://www.flamox365.com/funktionen/) · [Kontakt](mailto:mail@flamox365.com)
 
-> **In Entwicklung:** FLAMOX365 befindet sich vor dem allgemeinen Marktstart. Portal und Shop sind unten ausdrücklich als Entwicklungszugänge verlinkt.
+> **In Entwicklung:** FLAMOX365 befindet sich vor dem allgemeinen Marktstart. Die folgenden Links stellen die Plattform und ihre Funktionen auf der Hauptwebseite vor.
 
 ## Was FLAMOX365 zusammenbringt
 
@@ -25,8 +25,8 @@ Zentral gepflegte Hersteller- und Produktdaten, Zusammenarbeit im Team und ein K
 | --- | --- |
 | [Webseite](https://www.flamox365.com/) | Produktvorstellung, Zielgruppen und Kontakt |
 | [Feature-Katalog](https://www.flamox365.com/funktionen/) | Überblick über Funktionen und ihren Entwicklungsstand |
-| [Portal · Entwicklung](https://dev.portal.flamox365.app/) | Arbeitsbereich für Kunden, Verkauf, Aufträge und Team |
-| [Shop · Entwicklung](https://dev.flamox365.shop/) | Einkauf für Unternehmen |
+| [Portal für Ofenbaubetriebe](https://www.flamox365.com/ofenbauer/) | Arbeitsbereich für Kunden, Verkauf, Aufträge und Team |
+| [Shop für Unternehmen](https://www.flamox365.com/shop/) | Einkauf für Unternehmen |
 | [Status](https://status.flamox365.app/) | Betriebsstatus der Dienste |
 | [API und Schnittstelle](https://www.flamox365.com/api-und-schnittstelle/) | Informationen zur Integration eigener Systeme |
 
